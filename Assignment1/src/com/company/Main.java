@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(Strin[] args) {
         //ready for input
         Scanner console = new Scanner(System.in);
         //pokeList: an ArrayList used to store Pokemon data user loads in
